@@ -28,9 +28,9 @@ This project involves data preprocessing, feature engineering, and building clas
 1. Clone this repository to your local machine.
 2. Install the required dependencies:
 
-``bash
+```sh
    python -m spacy download en_core_web_sm
-``
+```
 
 
 
