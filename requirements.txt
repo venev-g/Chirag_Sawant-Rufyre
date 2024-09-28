@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+numpy
+torch
+transformers
+spacy
+xgboost
+catboost
